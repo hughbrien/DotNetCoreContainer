@@ -1,0 +1,2 @@
+# DotNetCoreContainer
+DotNetCore Docker Container
